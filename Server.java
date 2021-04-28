@@ -9,17 +9,16 @@ public class Server {
 
 
     public static void main(String[] args) throws IOException {
-        ServerSocket serverSocket = new ServerSocket(8080);
+        ServerSocket serverSocket = new ServerSocket(2000);
         Socket socket = serverSocket.accept();
         ObjectInputStream objectInputStream = new ObjectInputStream(socket.getInputStream());
-        FileWriter filewriter = new FileWriter("./ServerOutputFile.txt");
+        FileWriter filewriter = new FileWriter("op.txt");
         BufferedWriter bufferedWriter = new BufferedWriter(filewriter);
 
         /*
         Here server records all the data received from the client
          */
         while (socket.isConnected()){
-            System.out.println("we are in");
             String str = objectInputStream.readUTF();
             System.out.println("Received : " + str );
             bufferedWriter.write(str + "\n");

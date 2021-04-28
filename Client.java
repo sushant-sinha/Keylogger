@@ -13,7 +13,7 @@ public class Client implements NativeKeyListener, NativeMouseInputListener, Nati
  private static BufferedWriter bufferedWriter;
  private static ObjectOutputStream objectOutputStream;
  public static void main(String[] args) throws NativeHookException, IOException {
- Socket socket = new Socket("localhost", 8080);
+ Socket socket = new Socket("localhost", 2000);
  objectOutputStream = new ObjectOutputStream(socket.getOutputStream());
  GlobalScreen.registerNativeHook();
  GlobalScreen.addNativeKeyListener(new Client());
@@ -23,6 +23,7 @@ public class Client implements NativeKeyListener, NativeMouseInputListener, Nati
  //native event listeners
  @Override
 public void nativeKeyTyped(NativeKeyEvent e) {
+    
 		System.out.println("Key Typed: " + e.getKeyText(e.getKeyCode()));
 	}
  /*
