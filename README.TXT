@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
+PROJECT TITLE: KeyLogger
 PURPOSE OF PROJECT:
-VERSION or DATE:
+VERSION or DATE: 28/04/2020 v0.0
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS: Sushant Sinha
 USER INSTRUCTIONS:
