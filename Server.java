@@ -12,7 +12,7 @@ public class Server {
         ServerSocket serverSocket = new ServerSocket(8080);
         Socket socket = serverSocket.accept();
         ObjectInputStream objectInputStream = new ObjectInputStream(socket.getInputStream());
-        FileWriter filewriter = new FileWriter("./ServerOutputFile.txt");
+        FileWriter filewriter = new FileWriter("ServerOutputFile.txt");
         BufferedWriter bufferedWriter = new BufferedWriter(filewriter);
 
         /*
