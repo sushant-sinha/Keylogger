@@ -1,0 +1,124 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.11.jar;C:\Program Files (x86)\BlueJ\lib\hamcrest-core-1.3.jar;C:\Program Files (x86)\BlueJ\lib\lang-stride.jar;C:\Program Files\Java\mysql-connector-java-8.0.11.jar;C:\Program Files (x86)\BlueJ\lib\userlib\apache-csv.jar;C:\Program Files (x86)\BlueJ\lib\userlib\courserajava.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;C:\Users\91932\Desktop\timepass\java\exp
+-d
+C:\Users\91932\Desktop\timepass\java\exp\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+C:\Users\91932\Desktop\timepass\java\exp\Client.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\91932\Desktop\timepass\java\exp\Client.java...
+Constructing Javadoc information...
+C:\Users\91932\Desktop\timepass\java\exp\Client.java:1: error: package org.jnativehook does not exist
+import org.jnativehook.GlobalScreen;
+                      ^
+C:\Users\91932\Desktop\timepass\java\exp\Client.java:2: error: package org.jnativehook does not exist
+import org.jnativehook.NativeHookException;
+                      ^
+C:\Users\91932\Desktop\timepass\java\exp\Client.java:3: error: package org.jnativehook.keyboard does not exist
+import org.jnativehook.keyboard.NativeKeyEvent;
+                               ^
+C:\Users\91932\Desktop\timepass\java\exp\Client.java:4: error: package org.jnativehook.keyboard does not exist
+import org.jnativehook.keyboard.NativeKeyListener;
+                               ^
+C:\Users\91932\Desktop\timepass\java\exp\Client.java:5: error: package org.jnativehook.mouse does not exist
+import org.jnativehook.mouse.NativeMouseEvent;
+                            ^
+C:\Users\91932\Desktop\timepass\java\exp\Client.java:6: error: package org.jnativehook.mouse does not exist
+import org.jnativehook.mouse.NativeMouseInputListener;
+                            ^
+C:\Users\91932\Desktop\timepass\java\exp\Client.java:7: error: package org.jnativehook.mouse does not exist
+import org.jnativehook.mouse.NativeMouseWheelEvent;
+                            ^
+C:\Users\91932\Desktop\timepass\java\exp\Client.java:8: error: package org.jnativehook.mouse does not exist
+import org.jnativehook.mouse.NativeMouseWheelListener;
+                            ^
+C:\Users\91932\Desktop\timepass\java\exp\Client.java:11: error: cannot find symbol
+public class Client implements NativeKeyListener, NativeMouseInputListener, NativeMouseWheelListener{
+                               ^
+  symbol: class NativeKeyListener
+C:\Users\91932\Desktop\timepass\java\exp\Client.java:11: error: cannot find symbol
+public class Client implements NativeKeyListener, NativeMouseInputListener, NativeMouseWheelListener{
+                                                  ^
+  symbol: class NativeMouseInputListener
+C:\Users\91932\Desktop\timepass\java\exp\Client.java:11: error: cannot find symbol
+public class Client implements NativeKeyListener, NativeMouseInputListener, NativeMouseWheelListener{
+                                                                            ^
+  symbol: class NativeMouseWheelListener
+C:\Users\91932\Desktop\timepass\java\exp\Client.java:15: error: cannot find symbol
+ public static void main(String[] args) throws NativeHookException, IOException {
+                                               ^
+  symbol:   class NativeHookException
+  location: class Client
+C:\Users\91932\Desktop\timepass\java\exp\Client.java:25: error: cannot find symbol
+ public void nativeKeyTyped(NativeKeyEvent nativeKeyEvent) {
+                            ^
+  symbol:   class NativeKeyEvent
+  location: class Client
+C:\Users\91932\Desktop\timepass\java\exp\Client.java:31: error: cannot find symbol
+ public void nativeKeyPressed(NativeKeyEvent nativeKeyEvent) {
+                              ^
+  symbol:   class NativeKeyEvent
+  location: class Client
+C:\Users\91932\Desktop\timepass\java\exp\Client.java:44: error: cannot find symbol
+ public void nativeKeyReleased(NativeKeyEvent nativeKeyEvent) {
+                               ^
+  symbol:   class NativeKeyEvent
+  location: class Client
+C:\Users\91932\Desktop\timepass\java\exp\Client.java:52: error: cannot find symbol
+ public void nativeMouseClicked(NativeMouseEvent nativeMouseEvent) {
+                                ^
+  symbol:   class NativeMouseEvent
+  location: class Client
+C:\Users\91932\Desktop\timepass\java\exp\Client.java:58: error: cannot find symbol
+ public void nativeMousePressed(NativeMouseEvent nativeMouseEvent) {
+                                ^
+  symbol:   class NativeMouseEvent
+  location: class Client
+C:\Users\91932\Desktop\timepass\java\exp\Client.java:70: error: cannot find symbol
+ public void nativeMouseReleased(NativeMouseEvent nativeMouseEvent) {
+                                 ^
+  symbol:   class NativeMouseEvent
+  location: class Client
+C:\Users\91932\Desktop\timepass\java\exp\Client.java:81: error: cannot find symbol
+ public void nativeMouseMoved(NativeMouseEvent nativeMouseEvent) {
+                              ^
+  symbol:   class NativeMouseEvent
+  location: class Client
+C:\Users\91932\Desktop\timepass\java\exp\Client.java:94: error: cannot find symbol
+ public void nativeMouseDragged(NativeMouseEvent nativeMouseEvent) {
+                                ^
+  symbol:   class NativeMouseEvent
+  location: class Client
+C:\Users\91932\Desktop\timepass\java\exp\Client.java:106: error: cannot find symbol
+ public void nativeMouseWheelMoved(NativeMouseWheelEvent nativeMouseWheelEvent) {
+                                   ^
+  symbol:   class NativeMouseWheelEvent
+  location: class Client
+Standard Doclet version 1.8.0_144
+Building tree for all the packages and classes...
+Generating C:\Users\91932\Desktop\timepass\java\exp\doc\Client.html...
+Generating C:\Users\91932\Desktop\timepass\java\exp\doc\package-frame.html...
+Generating C:\Users\91932\Desktop\timepass\java\exp\doc\package-summary.html...
+Generating C:\Users\91932\Desktop\timepass\java\exp\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\91932\Desktop\timepass\java\exp\doc\allclasses-frame.html...
+Generating C:\Users\91932\Desktop\timepass\java\exp\doc\allclasses-noframe.html...
+Generating C:\Users\91932\Desktop\timepass\java\exp\doc\index.html...
+21 warnings
