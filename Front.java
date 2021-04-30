@@ -1,25 +1,51 @@
 import javafx.application.Application;
 import javafx.event.ActionEvent;
-import javafx.geometry.*;
 import javafx.event.EventHandler;
 import javafx.scene.Scene;
-import javafx.scene.layout.*;
-import javafx.geometry.Insets;
+
 import javax.swing.JOptionPane;
-import javafx.scene.control.TextField;
-import javafx.scene.control.TextArea;
+
 import javafx.scene.control.Button;
-import javafx.scene.effect.Light;
-import javafx.scene.effect.Lighting;
-import javafx.scene.paint.Color;
-import javafx.scene.shape.Rectangle;
 import javafx.stage.Stage;
-import javafx.scene.text.Font;
-import javafx.scene.text.FontWeight;
-import javafx.scene.text.Text;
 import javafx.scene.layout.GridPane;
 
+import java.util.concurrent.CountDownLatch;
+
+
 public class Front extends Application {
+
+    // START
+    // Starting from Server.class
+
+    public static final CountDownLatch latch = new CountDownLatch(1);
+    public static Front starts = null;
+
+    public static Front waitforfront() {
+        try {
+            latch.await();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        return starts;
+    }
+
+    public static void setStart(Front startUp) {
+        starts = startUp;
+        latch.countDown();
+    }
+
+    public Front() {
+        setStart(this);
+    }
+
+    public void notif() {
+        System.out.println("You called a method on the application");
+    }
+
+    // END
+
+
+
 
     public static void main(String[] args) {
         launch(args);
@@ -31,11 +57,24 @@ public class Front extends Application {
         GridPane root=new GridPane();
         GridPane root1=new GridPane();
         Button btn=new Button("Enter Password");
-        Scene scene=new Scene(root,3000,800);
-        Scene scene1=new Scene(root1,3000,800);
-        root.setHgap(50);
+        Button rbtn = new Button("Start");
+
+        rbtn.setStyle(
+                "-fx-background-radius: 5em; " +
+                        "-fx-min-width: 60px; " +
+                        "-fx-min-height: 60px; " +
+                        "-fx-max-width: 60px; " +
+                        "-fx-max-height: 60px;"
+        );
+
+        Scene scene=new Scene(root,1500,800);
+        Scene scene1=new Scene(root1,1500,800);
+        root.setHgap(25);
         root.setVgap(50);
-        root.add(btn,18,7);
+        root1.setHgap(25);
+        root1.setVgap(50);
+        root.add(btn,27,7);
+        root1.add(rbtn,30,3);
         primaryStage.setScene(scene);
         primaryStage.setTitle("KEY LOGGER");
         primaryStage.show();
@@ -48,7 +87,7 @@ public class Front extends Application {
                 while(i<3){
                     i++;
                     String input = JOptionPane.showInputDialog(null,"ENTER PASSWORD: ","SECURED ENTRY",JOptionPane.INFORMATION_MESSAGE);
-                    if(input.equals("1605409"))
+                    if(input.equals("0"))
                     {
                        primaryStage.setScene(scene1);
                         break;
@@ -62,6 +101,19 @@ public class Front extends Application {
             }
         });
 
+        rbtn.setOnAction(new EventHandler<ActionEvent>() {
+
+            @Override
+            public void handle(ActionEvent arg0) {
+
+                new Thread(){
+                    public void run(){
+                        Client.class;
+                    }
+                }.start();
+
+            }
+        });
 
         }
 }

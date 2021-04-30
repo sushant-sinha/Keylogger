@@ -14,7 +14,13 @@ public class Server {
         ObjectInputStream objectInputStream = new ObjectInputStream(socket.getInputStream());
         FileWriter filewriter = new FileWriter("op.txt");
         BufferedWriter bufferedWriter = new BufferedWriter(filewriter);
-
+        new Thread(){
+            public void run(){
+                javafx.application.Application.launch(Front.class);
+            }
+        }.start();
+        Front front=Front.waitforfront();
+        front.notif();
         /*
         Here server records all the data received from the client
          */
