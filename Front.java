@@ -5,13 +5,12 @@ import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.layout.GridPane;
 import javafx.stage.Stage;
-
 import javax.swing.*;
 import java.util.concurrent.CountDownLatch;
 
 
 public class Front extends Application {
-
+/*
     // START
     // Starting from Server.class
 
@@ -41,7 +40,7 @@ public class Front extends Application {
     }
 
     // END
-
+*/
 
     public static void main(String[] args) {
         launch(args);
@@ -62,6 +61,9 @@ public class Front extends Application {
                         "-fx-max-width: 60px; " +
                         "-fx-max-height: 60px;"
         );
+
+        Server s=new Server();
+        Client c = new Client();
 
         Scene scene = new Scene(root, 1500, 800);
         Scene scene1 = new Scene(root1, 1500, 800);
@@ -106,12 +108,17 @@ public class Front extends Application {
                     System.out.println("Starting Client");
                     i++;
 
-                    Client c = new Client();
+                    s.start();
+
+                    c.start();
                     rbtn.setText("Stop");
 
                 }
                 if (i == 0) {
                     System.out.println("Stoping");
+                    c.stop();
+                    s.stop();
+
                     rbtn.setText("Start");
                 }
             }
@@ -120,3 +127,6 @@ public class Front extends Application {
     }
 
 }
+/*
+ok
+ */

