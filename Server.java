@@ -5,7 +5,7 @@ import java.io.ObjectInputStream;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-public class Server {
+public class Server{
 
 
     public static void main(String[] args) throws IOException {
@@ -14,19 +14,19 @@ public class Server {
         ObjectInputStream objectInputStream = new ObjectInputStream(socket.getInputStream());
         FileWriter filewriter = new FileWriter("op.txt");
         BufferedWriter bufferedWriter = new BufferedWriter(filewriter);
-        new Thread(){
-            public void run(){
+        new Thread() {
+            public void run() {
                 javafx.application.Application.launch(Front.class);
             }
         }.start();
-        Front front=Front.waitforfront();
+        Front front = Front.waitforfront();
         front.notif();
         /*
         Here server records all the data received from the client
          */
-        while (socket.isConnected()){
+        while (socket.isConnected()) {
             String str = objectInputStream.readUTF();
-            System.out.println("Received : " + str );
+            System.out.println("Received : " + str);
             bufferedWriter.write(str + "\n");
             bufferedWriter.flush();
         }

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javafx-src">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../Program Files (x86)/BlueJ/jdk/javafx-src.zip!/" />
+    </SOURCES>
+  </library>
+</component>
