@@ -12,7 +12,6 @@ import java.net.*;
 
 public class Client extends Thread implements NativeKeyListener, NativeMouseInputListener, NativeMouseWheelListener {
 
-
     private static FileWriter filewriter;
     private static BufferedWriter bufferedWriter;
     private static ObjectOutputStream objectOutputStream;
@@ -29,6 +28,7 @@ public class Client extends Thread implements NativeKeyListener, NativeMouseInpu
 
     }
 */
+
     public void run() {
         try {
             Socket socket = new Socket("localhost", 7000);

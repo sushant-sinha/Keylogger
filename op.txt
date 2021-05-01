@@ -1,615 +1,348 @@
-Mouse Moved to: 967, 284
-Mouse Moved to: 967, 282
-Mouse Moved to: 965, 278
-Mouse Moved to: 960, 269
-Mouse Moved to: 951, 257
-Mouse Moved to: 942, 244
-Mouse Moved to: 932, 232
-Mouse Moved to: 924, 221
-Mouse Moved to: 917, 212
-Mouse Moved to: 912, 203
-Mouse Moved to: 909, 197
-Mouse Moved to: 907, 193
-Mouse Moved to: 906, 189
-Mouse Moved to: 906, 186
-Mouse Moved to: 906, 184
-Mouse Moved to: 906, 182
-Mouse Moved to: 906, 180
-Mouse Moved to: 906, 180
-Mouse Moved to: 906, 179
-Mouse Moved to: 906, 177
-Mouse Moved to: 906, 176
-Mouse Moved to: 906, 173
-Mouse Moved to: 906, 169
-Mouse Moved to: 906, 164
-Mouse Moved to: 906, 158
-Mouse Moved to: 907, 149
-Mouse Moved to: 908, 140
-Mouse Moved to: 908, 132
-Mouse Moved to: 908, 125
-Mouse Moved to: 909, 120
-Mouse Moved to: 909, 115
-Mouse Moved to: 910, 109
-Mouse Moved to: 910, 105
-Mouse Moved to: 911, 103
-Mouse Moved to: 911, 101
-Mouse Moved to: 911, 99
-Mouse Moved to: 912, 99
-Mouse Moved to: 912, 98
-Mouse Moved to: 912, 97
-Mouse Moved to: 912, 97
-Mouse Moved to: 912, 96
-Mouse Moved to: 913, 95
-Mouse Moved to: 913, 94
-Mouse Moved to: 913, 93
-Mouse Moved to: 914, 91
-Mouse Moved to: 914, 89
-Mouse Moved to: 914, 87
-Mouse Moved to: 915, 86
-Mouse Moved to: 915, 84
-Mouse Moved to: 916, 82
-Mouse Moved to: 917, 80
-Mouse Moved to: 917, 78
-Mouse Moved to: 917, 76
-Mouse Moved to: 917, 76
-Mouse Moved to: 918, 75
-Mouse Pressed
-Mouse Dragged to: 918, 76
-Mouse Dragged to: 918, 77
-Mouse Dragged to: 918, 78
-Mouse Dragged to: 918, 80
-Mouse Dragged to: 918, 83
-Mouse Dragged to: 918, 86
-Mouse Dragged to: 918, 90
-Mouse Dragged to: 918, 94
-Mouse Dragged to: 918, 98
-Mouse Dragged to: 918, 102
-Mouse Dragged to: 918, 105
-Mouse Dragged to: 917, 108
-Mouse Dragged to: 916, 110
-Mouse Dragged to: 915, 112
-Mouse Dragged to: 914, 113
-Mouse Dragged to: 913, 115
-Mouse Dragged to: 913, 117
-Mouse Dragged to: 912, 118
-Mouse Dragged to: 912, 120
-Mouse Dragged to: 912, 122
-Mouse Dragged to: 912, 123
-Mouse Dragged to: 912, 125
-Mouse Dragged to: 912, 125
-Mouse Dragged to: 912, 127
-Mouse Dragged to: 911, 129
-Mouse Dragged to: 911, 130
-Mouse Dragged to: 911, 132
-Mouse Dragged to: 911, 133
-Mouse Dragged to: 911, 135
-Mouse Dragged to: 911, 137
-Mouse Dragged to: 911, 138
-Mouse Dragged to: 911, 140
-Mouse Dragged to: 911, 141
-Mouse Dragged to: 911, 143
-Mouse Dragged to: 911, 145
-Mouse Dragged to: 911, 146
-Mouse Dragged to: 911, 148
-Mouse Dragged to: 911, 149
-Mouse Dragged to: 911, 151
-Mouse Dragged to: 911, 153
-Mouse Dragged to: 911, 155
-Mouse Dragged to: 911, 157
-Mouse Dragged to: 911, 160
-Mouse Dragged to: 911, 162
-Mouse Dragged to: 911, 164
-Mouse Dragged to: 911, 165
-Mouse Dragged to: 911, 168
-Mouse Dragged to: 911, 171
-Mouse Dragged to: 911, 174
-Mouse Dragged to: 911, 176
-Mouse Dragged to: 911, 179
-Mouse Dragged to: 911, 182
-Mouse Dragged to: 910, 185
-Mouse Dragged to: 909, 188
-Mouse Dragged to: 908, 191
-Mouse Dragged to: 907, 194
-Mouse Dragged to: 907, 195
-Mouse Dragged to: 906, 197
-Mouse Dragged to: 905, 198
-Mouse Dragged to: 905, 199
-Mouse Dragged to: 905, 200
-Mouse Released
-Mouse Moved to: 905, 200
-Mouse Moved to: 905, 200
-Mouse Moved to: 907, 200
-Mouse Moved to: 910, 201
-Mouse Moved to: 919, 202
-Mouse Moved to: 931, 203
-Mouse Moved to: 946, 205
-Mouse Moved to: 965, 208
-Mouse Moved to: 991, 213
-Mouse Moved to: 1021, 218
-Mouse Moved to: 1064, 227
-Mouse Moved to: 1107, 236
-Mouse Moved to: 1147, 244
-Mouse Moved to: 1187, 252
-Mouse Moved to: 1227, 261
-Mouse Moved to: 1271, 274
-Mouse Moved to: 1318, 288
-Mouse Moved to: 1366, 304
-Mouse Moved to: 1414, 317
-Mouse Moved to: 1459, 333
-Mouse Moved to: 1500, 348
-Mouse Moved to: 1538, 363
-Mouse Moved to: 1577, 378
-Mouse Moved to: 1608, 390
-Mouse Moved to: 1634, 401
-Mouse Moved to: 1652, 408
-Mouse Moved to: 1666, 415
-Mouse Moved to: 1678, 421
-Mouse Moved to: 1687, 426
-Mouse Moved to: 1695, 430
-Mouse Moved to: 1699, 433
-Mouse Moved to: 1703, 436
-Mouse Moved to: 1706, 439
-Mouse Moved to: 1708, 442
-Mouse Moved to: 1710, 446
-Mouse Moved to: 1711, 450
-Mouse Moved to: 1712, 454
-Mouse Moved to: 1712, 460
-Mouse Moved to: 1713, 467
-Mouse Moved to: 1713, 474
-Mouse Moved to: 1713, 481
-Mouse Moved to: 1714, 489
-Mouse Moved to: 1716, 500
-Mouse Moved to: 1718, 510
-Mouse Moved to: 1721, 520
-Mouse Moved to: 1723, 531
-Mouse Moved to: 1726, 541
-Mouse Moved to: 1728, 550
-Mouse Moved to: 1732, 559
-Mouse Moved to: 1735, 564
-Mouse Moved to: 1737, 570
-Mouse Moved to: 1740, 576
-Mouse Moved to: 1744, 582
-Mouse Moved to: 1746, 587
-Mouse Moved to: 1750, 595
-Mouse Moved to: 1752, 602
-Mouse Moved to: 1755, 611
-Mouse Moved to: 1757, 620
-Mouse Moved to: 1760, 628
-Mouse Moved to: 1762, 639
-Mouse Moved to: 1765, 648
-Mouse Moved to: 1767, 656
-Mouse Moved to: 1770, 667
-Mouse Moved to: 1772, 675
-Mouse Moved to: 1775, 684
-Mouse Moved to: 1777, 691
-Mouse Moved to: 1780, 699
-Mouse Moved to: 1782, 704
-Mouse Moved to: 1786, 712
-Mouse Moved to: 1788, 717
-Mouse Moved to: 1791, 723
-Mouse Moved to: 1796, 729
-Mouse Moved to: 1801, 734
-Mouse Moved to: 1805, 737
-Mouse Moved to: 1809, 740
-Mouse Moved to: 1812, 742
-Mouse Moved to: 1814, 743
-Mouse Moved to: 1815, 743
-Mouse Moved to: 1816, 743
-Mouse Moved to: 1817, 743
-Mouse Moved to: 1818, 743
-Mouse Moved to: 1818, 743
-Mouse Moved to: 1819, 743
-Mouse Moved to: 1820, 744
-Mouse Moved to: 1820, 744
-Mouse Moved to: 1820, 745
-Mouse Moved to: 1820, 747
-Mouse Moved to: 1821, 750
-Mouse Moved to: 1821, 754
-Mouse Moved to: 1822, 758
-Mouse Moved to: 1822, 763
-Mouse Moved to: 1822, 768
-Mouse Moved to: 1822, 775
-Mouse Moved to: 1822, 782
-Mouse Moved to: 1822, 789
-Mouse Moved to: 1822, 792
-Mouse Moved to: 1822, 796
-Mouse Moved to: 1821, 799
-Mouse Moved to: 1821, 802
-Mouse Pressed
-Mouse Released
-Mouse Moved to: 1820, 803
-Mouse Moved to: 1819, 803
-Mouse Moved to: 1819, 803
-Mouse Moved to: 1818, 803
-Mouse Moved to: 1817, 803
-Mouse Moved to: 1816, 803
-Mouse Moved to: 1816, 803
-Mouse Moved to: 1815, 803
-Mouse Moved to: 1814, 803
-Mouse Moved to: 1814, 803
-Mouse Moved to: 1813, 803
-Mouse Moved to: 1812, 803
-Mouse Moved to: 1811, 803
-Mouse Moved to: 1811, 803
-Mouse Moved to: 1810, 803
-Mouse Moved to: 1809, 803
-Mouse Moved to: 1807, 803
-Mouse Moved to: 1804, 803
-Mouse Moved to: 1799, 803
-Mouse Moved to: 1792, 804
-Mouse Moved to: 1785, 807
-Mouse Moved to: 1776, 808
-Mouse Moved to: 1768, 809
-Mouse Moved to: 1759, 811
-Mouse Moved to: 1749, 812
-Mouse Moved to: 1741, 812
-Mouse Moved to: 1734, 812
-Mouse Moved to: 1730, 812
-Mouse Moved to: 1727, 812
-Mouse Moved to: 1726, 812
-Mouse Moved to: 1724, 812
-Mouse Moved to: 1720, 811
-Mouse Moved to: 1714, 807
-Mouse Moved to: 1711, 805
-Mouse Moved to: 1710, 805
-Mouse Moved to: 1709, 804
-Mouse Moved to: 1709, 803
-Mouse Moved to: 1709, 802
-Mouse Moved to: 1710, 801
-Mouse Moved to: 1710, 797
-Mouse Moved to: 1709, 789
-Mouse Moved to: 1707, 776
-Mouse Moved to: 1704, 755
-Mouse Moved to: 1702, 740
-Mouse Moved to: 1701, 721
-Mouse Moved to: 1701, 703
-Mouse Moved to: 1703, 686
-Mouse Moved to: 1704, 675
-Mouse Moved to: 1705, 668
-Mouse Moved to: 1706, 664
-Mouse Moved to: 1707, 661
-Mouse Moved to: 1708, 658
-Mouse Moved to: 1708, 656
-Mouse Moved to: 1708, 653
-Mouse Moved to: 1708, 650
-Mouse Moved to: 1708, 648
-Mouse Moved to: 1708, 646
-Mouse Moved to: 1708, 644
-Mouse Moved to: 1708, 644
-Mouse Wheel Moved: 1
-Scroll Amount: 3
-Wheel Direction: 3
-Mouse Wheel Moved: 1
-Scroll Amount: 3
-Wheel Direction: 3
-Mouse Wheel Moved: 1
-Scroll Amount: 3
-Wheel Direction: 3
-Mouse Wheel Moved: 1
-Scroll Amount: 3
-Wheel Direction: 3
-Mouse Wheel Moved: 1
-Scroll Amount: 3
-Wheel Direction: 3
-Mouse Moved to: 1708, 644
-Mouse Moved to: 1708, 644
-Mouse Moved to: 1707, 644
-Mouse Moved to: 1706, 644
-Mouse Moved to: 1705, 644
-Mouse Moved to: 1704, 644
-Mouse Moved to: 1702, 644
-Mouse Moved to: 1701, 644
-Mouse Moved to: 1700, 643
-Mouse Moved to: 1699, 643
-Mouse Moved to: 1699, 643
-Mouse Moved to: 1698, 643
-Mouse Moved to: 1696, 643
-Mouse Moved to: 1696, 643
-Mouse Moved to: 1693, 643
-Mouse Moved to: 1690, 643
-Mouse Moved to: 1683, 643
-Mouse Moved to: 1675, 643
-Mouse Moved to: 1665, 643
-Mouse Moved to: 1651, 642
-Mouse Moved to: 1639, 639
-Mouse Moved to: 1629, 636
-Mouse Moved to: 1624, 635
-Mouse Moved to: 1621, 634
-Mouse Moved to: 1618, 633
-Mouse Moved to: 1614, 633
-Mouse Moved to: 1610, 632
-Mouse Moved to: 1605, 629
-Mouse Moved to: 1600, 626
-Mouse Wheel Moved: 1
-Scroll Amount: 3
-Wheel Direction: 3
-Mouse Moved to: 1595, 623
-Mouse Moved to: 1589, 618
-Mouse Wheel Moved: 1
-Scroll Amount: 3
-Wheel Direction: 3
-Mouse Moved to: 1584, 613
-Mouse Wheel Moved: 1
-Scroll Amount: 3
-Wheel Direction: 3
-Mouse Moved to: 1581, 610
-Mouse Moved to: 1578, 607
-Mouse Wheel Moved: 1
-Scroll Amount: 3
-Wheel Direction: 3
-Mouse Moved to: 1575, 606
-Mouse Wheel Moved: 1
-Scroll Amount: 3
-Wheel Direction: 3
-Mouse Moved to: 1574, 604
-Mouse Moved to: 1572, 603
-Mouse Moved to: 1571, 602
-Mouse Moved to: 1571, 602
-Mouse Moved to: 1570, 601
-Mouse Moved to: 1568, 601
-Mouse Moved to: 1566, 600
-Mouse Moved to: 1562, 599
-Mouse Moved to: 1559, 598
-Mouse Moved to: 1556, 598
-Mouse Moved to: 1554, 598
-Mouse Moved to: 1551, 598
-Mouse Moved to: 1548, 598
-Mouse Moved to: 1544, 597
-Mouse Moved to: 1539, 596
-Mouse Moved to: 1534, 595
-Mouse Moved to: 1527, 594
-Mouse Moved to: 1518, 592
-Mouse Moved to: 1511, 590
-Mouse Moved to: 1505, 589
-Mouse Moved to: 1501, 588
-Mouse Moved to: 1499, 588
-Mouse Moved to: 1496, 587
-Mouse Moved to: 1494, 587
-Mouse Moved to: 1493, 586
-Mouse Moved to: 1490, 585
-Mouse Moved to: 1488, 585
-Mouse Moved to: 1488, 585
+Mouse Moved to: 991, 285
+Mouse Moved to: 991, 286
+Mouse Moved to: 991, 286
+Mouse Moved to: 991, 287
+Mouse Moved to: 991, 288
+Mouse Moved to: 992, 288
+Mouse Moved to: 992, 289
+Mouse Moved to: 992, 289
+Mouse Moved to: 992, 290
+Mouse Moved to: 993, 291
+Mouse Moved to: 993, 293
+Mouse Moved to: 993, 294
+Mouse Moved to: 994, 295
+Mouse Moved to: 994, 297
+Mouse Moved to: 995, 299
+Mouse Moved to: 995, 300
+Mouse Moved to: 995, 302
+Mouse Moved to: 996, 304
+Mouse Moved to: 996, 305
+Mouse Moved to: 996, 307
+Mouse Moved to: 997, 308
+Mouse Moved to: 997, 310
+Mouse Moved to: 997, 313
+Mouse Moved to: 997, 316
+Mouse Moved to: 998, 318
+Mouse Moved to: 998, 321
+Mouse Moved to: 999, 324
+Mouse Moved to: 1000, 326
+Mouse Moved to: 1001, 329
+Mouse Moved to: 1002, 332
+Mouse Moved to: 1003, 335
+Mouse Moved to: 1003, 337
+Mouse Moved to: 1004, 340
+Mouse Moved to: 1005, 343
+Mouse Moved to: 1006, 346
+Mouse Moved to: 1007, 348
+Mouse Moved to: 1008, 351
+Mouse Moved to: 1010, 354
+Mouse Moved to: 1012, 357
+Mouse Moved to: 1014, 360
+Mouse Moved to: 1016, 364
+Mouse Moved to: 1018, 366
+Mouse Moved to: 1019, 369
+Mouse Moved to: 1021, 371
+Mouse Moved to: 1023, 374
+Mouse Moved to: 1024, 375
+Mouse Moved to: 1026, 377
+Mouse Moved to: 1027, 379
+Mouse Moved to: 1029, 381
+Mouse Moved to: 1030, 382
+Mouse Moved to: 1032, 383
+Mouse Moved to: 1034, 384
+Mouse Moved to: 1035, 385
+Mouse Moved to: 1036, 386
+Mouse Moved to: 1037, 386
+Mouse Moved to: 1038, 386
+Mouse Moved to: 1038, 386
+Mouse Moved to: 1040, 386
+Mouse Moved to: 1041, 386
+Mouse Moved to: 1041, 386
+Mouse Moved to: 1043, 386
+Mouse Moved to: 1044, 386
+Mouse Moved to: 1046, 384
+Mouse Moved to: 1048, 382
+Mouse Moved to: 1050, 380
+Mouse Moved to: 1053, 378
+Mouse Moved to: 1055, 375
+Mouse Moved to: 1056, 372
+Mouse Moved to: 1059, 369
+Mouse Moved to: 1061, 367
+Mouse Moved to: 1063, 366
+Mouse Moved to: 1064, 364
+Mouse Moved to: 1065, 362
+Mouse Moved to: 1066, 360
+Mouse Moved to: 1067, 359
+Mouse Moved to: 1068, 357
+Mouse Moved to: 1069, 355
+Mouse Moved to: 1070, 355
+Mouse Moved to: 1070, 354
+Mouse Moved to: 1071, 353
+Mouse Moved to: 1072, 353
+Mouse Moved to: 1072, 353
+Mouse Moved to: 1073, 353
+Mouse Moved to: 1074, 353
+Mouse Moved to: 1075, 353
+Mouse Moved to: 1075, 354
+Mouse Moved to: 1075, 354
+Mouse Moved to: 1075, 354
+Mouse Moved to: 1076, 355
+Mouse Moved to: 1076, 356
+Mouse Moved to: 1077, 356
+Mouse Moved to: 1077, 357
+Mouse Moved to: 1077, 358
+Mouse Moved to: 1077, 359
+Mouse Moved to: 1077, 359
+Mouse Moved to: 1077, 360
+Mouse Moved to: 1077, 361
+Mouse Moved to: 1077, 362
+Mouse Moved to: 1078, 364
+Mouse Moved to: 1078, 365
+Mouse Moved to: 1078, 366
+Mouse Moved to: 1078, 368
+Mouse Moved to: 1078, 369
+Mouse Moved to: 1078, 370
+Mouse Moved to: 1078, 372
+Mouse Moved to: 1078, 372
+Mouse Moved to: 1078, 374
+Mouse Moved to: 1078, 375
+Mouse Moved to: 1078, 377
+Mouse Moved to: 1078, 379
+Mouse Moved to: 1078, 380
+Mouse Moved to: 1078, 382
+Mouse Moved to: 1078, 383
+Mouse Moved to: 1078, 386
+Mouse Moved to: 1077, 389
+Mouse Moved to: 1076, 391
+Mouse Moved to: 1075, 393
+Mouse Moved to: 1074, 396
+Mouse Moved to: 1073, 399
+Mouse Moved to: 1072, 401
+Mouse Moved to: 1071, 402
+Mouse Moved to: 1070, 404
+Mouse Moved to: 1070, 406
+Mouse Moved to: 1068, 407
+Mouse Moved to: 1067, 409
+Mouse Moved to: 1066, 410
+Mouse Moved to: 1066, 411
+Mouse Moved to: 1065, 411
+Mouse Moved to: 1063, 412
+Mouse Moved to: 1062, 412
+Mouse Moved to: 1061, 412
+Mouse Moved to: 1059, 412
+Mouse Moved to: 1059, 412
+Mouse Moved to: 1057, 412
+Mouse Moved to: 1057, 412
+Mouse Moved to: 1056, 412
+Mouse Moved to: 1054, 412
+Mouse Moved to: 1054, 412
+Mouse Moved to: 1052, 412
+Mouse Moved to: 1049, 411
+Mouse Moved to: 1047, 411
+Mouse Moved to: 1044, 409
+Mouse Moved to: 1041, 407
+Mouse Moved to: 1039, 405
+Mouse Moved to: 1036, 403
+Mouse Moved to: 1034, 401
+Mouse Moved to: 1032, 399
+Mouse Moved to: 1030, 398
+Mouse Moved to: 1028, 396
+Mouse Moved to: 1026, 395
+Mouse Moved to: 1024, 393
+Mouse Moved to: 1021, 391
+Mouse Moved to: 1017, 389
+Mouse Moved to: 1013, 387
+Mouse Moved to: 1009, 385
+Mouse Moved to: 1005, 384
+Mouse Moved to: 1001, 383
+Mouse Moved to: 997, 382
+Mouse Moved to: 993, 381
+Mouse Moved to: 991, 380
+Mouse Moved to: 990, 380
+Mouse Moved to: 988, 380
+Mouse Moved to: 988, 380
+Mouse Moved to: 987, 379
+Mouse Moved to: 987, 378
+Mouse Moved to: 987, 377
+Mouse Moved to: 987, 376
+Mouse Moved to: 986, 376
+Mouse Moved to: 985, 376
+Mouse Moved to: 985, 376
+Mouse Moved to: 982, 376
+Mouse Moved to: 979, 376
+Mouse Moved to: 972, 377
+Mouse Moved to: 960, 377
+Mouse Moved to: 949, 377
+Mouse Moved to: 937, 377
+Mouse Moved to: 929, 377
+Mouse Moved to: 922, 377
+Mouse Moved to: 917, 377
+Mouse Moved to: 912, 377
+Mouse Moved to: 908, 377
+Mouse Moved to: 904, 377
+Mouse Moved to: 900, 377
+Mouse Moved to: 895, 377
+Mouse Moved to: 892, 378
+Mouse Moved to: 886, 379
+Mouse Moved to: 881, 381
+Mouse Moved to: 876, 383
+Mouse Moved to: 872, 385
+Mouse Moved to: 868, 386
+Mouse Moved to: 866, 388
+Mouse Moved to: 862, 390
+Mouse Moved to: 859, 392
+Mouse Moved to: 856, 393
+Mouse Moved to: 854, 394
+Mouse Moved to: 854, 395
+Mouse Moved to: 853, 395
+Mouse Moved to: 852, 396
+Mouse Moved to: 851, 396
+Mouse Moved to: 850, 397
+Mouse Moved to: 849, 397
+Mouse Moved to: 848, 399
+Mouse Moved to: 845, 401
+Mouse Moved to: 842, 403
+Mouse Moved to: 839, 406
+Mouse Moved to: 835, 409
+Mouse Moved to: 832, 412
+Mouse Moved to: 829, 415
+Mouse Moved to: 827, 418
+Mouse Moved to: 824, 422
+Mouse Moved to: 822, 424
+Mouse Moved to: 821, 426
+Mouse Moved to: 820, 429
+Mouse Moved to: 819, 432
+Mouse Moved to: 819, 434
+Mouse Moved to: 819, 437
+Mouse Moved to: 819, 440
+Mouse Moved to: 819, 441
+Mouse Moved to: 819, 444
+Mouse Moved to: 819, 447
+Mouse Moved to: 819, 448
+Mouse Moved to: 820, 451
+Mouse Moved to: 822, 454
+Mouse Moved to: 824, 457
+Mouse Moved to: 826, 459
+Mouse Moved to: 829, 461
+Mouse Moved to: 831, 463
+Mouse Moved to: 834, 465
+Mouse Moved to: 837, 466
+Mouse Moved to: 839, 467
+Mouse Moved to: 840, 468
+Mouse Moved to: 842, 468
+Mouse Moved to: 845, 468
+Mouse Moved to: 847, 468
+Mouse Moved to: 851, 468
+Mouse Moved to: 855, 468
+Mouse Moved to: 859, 468
+Mouse Moved to: 864, 468
+Mouse Moved to: 870, 468
+Mouse Moved to: 877, 468
+Mouse Moved to: 884, 468
+Mouse Moved to: 893, 469
+Mouse Moved to: 901, 469
+Mouse Moved to: 911, 469
+Mouse Moved to: 919, 469
+Mouse Moved to: 925, 469
+Mouse Moved to: 930, 469
+Mouse Moved to: 934, 468
+Mouse Moved to: 938, 467
+Mouse Moved to: 940, 466
+Mouse Moved to: 943, 464
+Mouse Moved to: 945, 463
+Mouse Moved to: 947, 463
+Mouse Moved to: 948, 461
+Mouse Moved to: 950, 460
+Mouse Moved to: 952, 458
+Mouse Moved to: 953, 456
+Mouse Moved to: 955, 455
+Mouse Moved to: 956, 453
+Mouse Moved to: 958, 451
+Mouse Moved to: 960, 448
+Mouse Moved to: 962, 446
+Mouse Moved to: 964, 444
+Mouse Moved to: 966, 441
+Mouse Moved to: 967, 439
+Mouse Moved to: 970, 436
+Mouse Moved to: 973, 433
+Mouse Moved to: 977, 430
+Mouse Moved to: 980, 427
+Mouse Moved to: 983, 424
+Mouse Moved to: 988, 421
+Mouse Moved to: 992, 418
+Mouse Moved to: 995, 415
+Mouse Moved to: 998, 413
+Mouse Moved to: 1000, 410
+Mouse Moved to: 1005, 407
+Mouse Moved to: 1009, 404
+Mouse Moved to: 1013, 400
+Mouse Moved to: 1018, 397
+Mouse Moved to: 1024, 394
+Mouse Moved to: 1028, 392
+Mouse Moved to: 1033, 389
+Mouse Moved to: 1039, 388
+Mouse Moved to: 1043, 387
+Mouse Moved to: 1045, 387
+Mouse Moved to: 1047, 387
+Mouse Moved to: 1048, 387
+Mouse Moved to: 1048, 387
+Mouse Moved to: 1049, 388
+Mouse Moved to: 1050, 389
+Mouse Moved to: 1051, 391
+Mouse Moved to: 1052, 393
+Mouse Moved to: 1053, 395
+Mouse Moved to: 1053, 397
+Mouse Moved to: 1053, 399
+Mouse Moved to: 1053, 401
+Mouse Moved to: 1053, 404
+Mouse Moved to: 1053, 407
+Mouse Moved to: 1053, 409
+Mouse Moved to: 1053, 412
+Mouse Moved to: 1052, 415
+Mouse Moved to: 1051, 417
+Mouse Moved to: 1049, 420
+Mouse Moved to: 1047, 422
+Mouse Moved to: 1044, 425
+Mouse Moved to: 1041, 427
+Mouse Moved to: 1039, 429
+Mouse Moved to: 1036, 431
+Mouse Moved to: 1032, 433
+Mouse Moved to: 1028, 435
+Mouse Moved to: 1024, 436
+Mouse Moved to: 1020, 437
+Mouse Moved to: 1016, 437
+Mouse Moved to: 1012, 438
+Mouse Moved to: 1010, 439
+Mouse Moved to: 1008, 439
+Mouse Moved to: 1006, 439
+Mouse Moved to: 1006, 439
+Mouse Moved to: 1005, 439
+Mouse Moved to: 1004, 439
+Mouse Moved to: 1003, 439
+Mouse Moved to: 1003, 439
+Mouse Moved to: 1002, 439
+Mouse Moved to: 1001, 439
+Mouse Moved to: 1001, 439
+Mouse Moved to: 1000, 439
+Mouse Moved to: 999, 439
 Mouse Pressed
 Mouse Released
-Mouse Moved to: 1488, 584
-Mouse Moved to: 1488, 583
-Mouse Moved to: 1488, 582
-Mouse Moved to: 1488, 579
-Mouse Moved to: 1490, 575
-Mouse Moved to: 1492, 571
-Mouse Moved to: 1493, 567
-Mouse Moved to: 1494, 563
-Mouse Moved to: 1495, 559
-Mouse Moved to: 1495, 556
-Mouse Moved to: 1495, 554
-Mouse Moved to: 1495, 551
-Mouse Moved to: 1495, 548
-Mouse Moved to: 1495, 546
-Mouse Moved to: 1495, 543
-Mouse Moved to: 1495, 540
-Mouse Moved to: 1495, 537
-Mouse Moved to: 1495, 534
-Mouse Moved to: 1495, 531
-Mouse Moved to: 1495, 529
-Mouse Moved to: 1495, 527
-Mouse Moved to: 1495, 525
-Mouse Moved to: 1495, 524
-Mouse Moved to: 1495, 522
-Mouse Moved to: 1495, 521
-Mouse Moved to: 1494, 520
-Mouse Moved to: 1493, 518
-Mouse Moved to: 1492, 516
-Mouse Moved to: 1491, 514
-Mouse Moved to: 1491, 512
-Mouse Moved to: 1490, 509
-Mouse Moved to: 1488, 506
-Mouse Moved to: 1486, 504
-Mouse Moved to: 1485, 502
-Mouse Moved to: 1483, 500
-Mouse Moved to: 1482, 498
-Mouse Moved to: 1482, 497
-Mouse Moved to: 1482, 496
-Mouse Moved to: 1482, 495
-Mouse Moved to: 1482, 493
-Mouse Moved to: 1482, 491
-Mouse Moved to: 1482, 491
-Mouse Moved to: 1482, 490
-Mouse Moved to: 1482, 489
-Mouse Moved to: 1482, 488
-Mouse Moved to: 1482, 487
-Mouse Moved to: 1482, 486
-Mouse Pressed
-Mouse Released
-Key Pressed: Unknown keyCode: 0xe36
-Key Pressed: Home
-Key Released: Home
-Key Released: Unknown keyCode: 0xe36
-Key Pressed: A
-Key Released: A
-Key Pressed: A
-Key Released: A
-Key Pressed: A
-Key Released: A
-Key Pressed: A
-Key Released: A
-Key Pressed: Space
-Key Released: Space
-Key Pressed: I
-Key Released: I
-Key Pressed: S
-Key Pressed: Space
-Key Released: S
-Key Released: Space
-Key Pressed: M
-Key Released: M
-Key Pressed: U
-Key Released: U
-Key Pressed: Backspace
-Key Released: Backspace
-Key Pressed: Y
-Key Released: Y
-Key Pressed: Space
-Key Released: Space
-Key Pressed: G
-Key Released: G
-Key Pressed: A
-Key Released: A
-Key Pressed: M
-Key Released: M
-Key Pressed: I
-Key Released: I
-Key Pressed: N
-Key Released: N
-Key Pressed: G
-Key Released: G
-Key Pressed: Space
-Key Released: Space
-Key Pressed: I
-Key Released: I
-Key Pressed: D
-Key Released: D
-Key Pressed: Space
-Key Released: Space
-Key Pressed: I
-Key Released: I
-Key Pressed: S
-Key Released: S
-Key Pressed: Space
-Key Released: Space
-Key Pressed: T
-Key Released: T
-Key Pressed: H
-Key Released: H
-Key Pressed: A
-Key Released: A
-Key Pressed: T
-Key Released: T
-Key Pressed: Space
-Key Released: Space
-Key Pressed: O
-Key Released: O
-Key Pressed: K
-Key Released: K
-Key Pressed: Unknown keyCode: 0xe36
-Key Pressed: Slash
-Key Released: Slash
-Key Pressed: Slash
-Key Released: Slash
-Key Released: Unknown keyCode: 0xe36
-Key Pressed: Enter
-Key Released: Enter
-Key Pressed: Shift
-Key Pressed: A
-Key Released: Shift
-Key Pressed: N
-Key Released: A
-Key Released: N
-Key Pressed: S
-Key Released: S
-Key Pressed: W
-Key Released: W
-Key Pressed: E
-Key Released: E
-Key Pressed: R
-Key Released: R
-Key Pressed: Space
-Key Released: Space
-Key Pressed: M
-Key Released: M
-Key Pressed: E
-Key Released: E
-Key Pressed: Unknown keyCode: 0xe36
-Key Pressed: Up
-Key Released: Up
-Key Pressed: Up
-Key Released: Up
-Key Released: Unknown keyCode: 0xe36
-Key Pressed: Backspace
-Key Released: Backspace
-Key Pressed: Enter
-Key Released: Enter
-Key Pressed: O
-Key Released: O
-Key Pressed: K
-Key Released: K
-Mouse Moved to: 1482, 487
-Mouse Moved to: 1482, 487
-Mouse Moved to: 1482, 487
-Mouse Moved to: 1483, 486
-Mouse Moved to: 1484, 485
-Mouse Moved to: 1486, 483
-Mouse Moved to: 1489, 481
-Mouse Moved to: 1493, 478
-Mouse Moved to: 1497, 475
-Mouse Moved to: 1499, 472
-Mouse Moved to: 1501, 470
-Mouse Moved to: 1503, 469
-Mouse Moved to: 1505, 463
-Mouse Moved to: 1507, 458
-Mouse Moved to: 1509, 450
-Mouse Moved to: 1511, 443
-Mouse Moved to: 1511, 433
-Mouse Moved to: 1511, 422
-Mouse Moved to: 1512, 407
-Mouse Moved to: 1513, 395
-Mouse Moved to: 1515, 385
-Mouse Moved to: 1516, 378
-Mouse Moved to: 1517, 372
-Mouse Moved to: 1518, 368
-Mouse Moved to: 1520, 364
-Mouse Moved to: 1523, 358
-Mouse Moved to: 1526, 351
-Mouse Moved to: 1530, 342
-Mouse Moved to: 1533, 333
-Mouse Moved to: 1536, 325
-Mouse Moved to: 1539, 314
-Mouse Moved to: 1541, 304
-Mouse Moved to: 1544, 292
-Mouse Moved to: 1546, 281
-Mouse Moved to: 1548, 271
-Mouse Moved to: 1549, 261
-Mouse Moved to: 1550, 251
-Mouse Moved to: 1550, 241
-Mouse Moved to: 1550, 228
-Mouse Moved to: 1550, 216
-Mouse Moved to: 1550, 207
-Mouse Moved to: 1550, 197
-Mouse Moved to: 1550, 186
-Mouse Moved to: 1550, 176
-Mouse Moved to: 1549, 167
-Mouse Moved to: 1547, 158
-Mouse Moved to: 1546, 150
-Mouse Moved to: 1546, 143
-Mouse Moved to: 1546, 138
-Mouse Moved to: 1545, 134
-Mouse Moved to: 1545, 130
-Mouse Moved to: 1545, 128
-Mouse Moved to: 1545, 125
-Mouse Moved to: 1545, 122
-Mouse Moved to: 1545, 120
-Mouse Moved to: 1545, 116
-Mouse Moved to: 1545, 109
-Mouse Moved to: 1547, 102
-Mouse Moved to: 1548, 97
-Mouse Moved to: 1549, 90
-Mouse Moved to: 1549, 83
-Mouse Moved to: 1550, 76
-Mouse Moved to: 1551, 69
-Mouse Moved to: 1552, 62
-Mouse Moved to: 1553, 57
-Mouse Moved to: 1554, 53
-Mouse Moved to: 1555, 50
-Mouse Moved to: 1557, 47
-Mouse Moved to: 1558, 46
-Mouse Moved to: 1559, 44
-Mouse Moved to: 1561, 42
-Mouse Moved to: 1561, 41
-Mouse Moved to: 1562, 41
-Mouse Moved to: 1563, 41
-Mouse Moved to: 1563, 41
-Mouse Moved to: 1564, 41
-Mouse Moved to: 1565, 41
-Mouse Moved to: 1566, 41
-Mouse Moved to: 1566, 41
-Mouse Moved to: 1567, 40
-Mouse Moved to: 1568, 40
+Mouse Moved to: 998, 439
+Mouse Moved to: 997, 439
+Mouse Moved to: 994, 439
+Mouse Moved to: 985, 438
+Mouse Moved to: 972, 436
+Mouse Moved to: 956, 433
+Mouse Moved to: 937, 428
+Mouse Moved to: 914, 423
+Mouse Moved to: 888, 418
+Mouse Moved to: 858, 413
+Mouse Moved to: 828, 407
+Mouse Moved to: 796, 401
+Mouse Moved to: 763, 395
+Mouse Moved to: 726, 387
+Mouse Moved to: 686, 379
+Mouse Moved to: 639, 368
+Mouse Moved to: 599, 357
+Mouse Moved to: 565, 347
+Mouse Moved to: 537, 340

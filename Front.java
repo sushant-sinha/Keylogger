@@ -5,8 +5,8 @@ import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.layout.GridPane;
 import javafx.stage.Stage;
+
 import javax.swing.*;
-import java.util.concurrent.CountDownLatch;
 
 
 public class Front extends Application {
@@ -53,7 +53,7 @@ public class Front extends Application {
         GridPane root1 = new GridPane();
         Button btn = new Button("Enter Password");
         Button rbtn = new Button("Start");
-
+        Button rbtn1 = new Button("Stop");
         rbtn.setStyle(
                 "-fx-background-radius: 5em; " +
                         "-fx-min-width: 60px; " +
@@ -61,8 +61,14 @@ public class Front extends Application {
                         "-fx-max-width: 60px; " +
                         "-fx-max-height: 60px;"
         );
-
-        Server s=new Server();
+        rbtn1.setStyle(
+                "-fx-background-radius: 5em; " +
+                        "-fx-min-width: 60px; " +
+                        "-fx-min-height: 60px; " +
+                        "-fx-max-width: 60px; " +
+                        "-fx-max-height: 60px;"
+        );
+        Server s = new Server();
         Client c = new Client();
 
         Scene scene = new Scene(root, 1500, 800);
@@ -73,6 +79,8 @@ public class Front extends Application {
         root1.setVgap(50);
         root.add(btn, 27, 7);
         root1.add(rbtn, 30, 3);
+        root1.add(rbtn1, 30, 5);
+        rbtn1.setDisable(true);
         primaryStage.setScene(scene);
         primaryStage.setTitle("KEY LOGGER");
         primaryStage.show();
@@ -103,24 +111,24 @@ public class Front extends Application {
 
             @Override
             public void handle(ActionEvent arg0) {
-                int i = 0;
-                if (rbtn.getText().equals("Start")) {
-                    System.out.println("Starting Client");
-                    i++;
+                System.out.println("Starting Client");
+                s.start();
+                c.start();
+                rbtn.setDisable(true);
+                rbtn1.setDisable(false);
+            }
+        });
 
-                    s.start();
+        rbtn1.setOnAction(new EventHandler<ActionEvent>() {
 
-                    c.start();
-                    rbtn.setText("Stop");
+            @Override
+            public void handle(ActionEvent arg0) {
 
-                }
-                if (i == 0) {
-                    System.out.println("Stoping");
-                    c.stop();
-                    s.stop();
-
-                    rbtn.setText("Start");
-                }
+                System.out.println("Stopping");
+                s.flag();
+                c.stop();
+                rbtn.setDisable(false);
+                rbtn1.setDisable(true);
             }
         });
 
@@ -128,5 +136,4 @@ public class Front extends Application {
 
 }
 /*
-ok
  */

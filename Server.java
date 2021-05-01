@@ -7,6 +7,8 @@ import java.net.Socket;
 
 public class Server extends Thread{
 
+    boolean f=true;
+
     /*
     public static void main(String[] args) throws IOException {
         ServerSocket serverSocket = new ServerSocket(7000);
@@ -51,12 +53,18 @@ public class Server extends Thread{
                 System.out.println("Received : " + str);
                 bufferedWriter.write(str + "\n");
                 bufferedWriter.flush();
+                if(!f)
+                    socket.close();
             }
         }
         catch(Exception e){
             System.out.println(e);
         }
 
+    }
+
+    public void flag(){
+        f=false;
     }
 
 

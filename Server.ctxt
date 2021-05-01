@@ -1,5 +1,8 @@
 #BlueJ class context
 comment0.target=Server
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-numComments=2
+comment1.params=
+comment1.target=void\ run()
+comment1.text=\r\n\ \ \ \ \ \ \ \ while\ (socket.isConnected())\ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ String\ str\ \=\ objectInputStream.readUTF();\r\n\ \ \ \ \ \ \ \ \ \ \ \ System.out.println("Received\ \:\ "\ +\ str);\r\n\ \ \ \ \ \ \ \ \ \ \ \ bufferedWriter.write(str\ +\ "\\n");\r\n\ \ \ \ \ \ \ \ \ \ \ \ bufferedWriter.flush();\r\n\ \ \ \ \ \ \ \ }\r\n\r\n\ \ \ \ \ \ \ \ System.out.println("Connection\ closed");\r\n\ \ \ \ }\r\n
+comment2.params=
+comment2.target=void\ flag()
+numComments=3
