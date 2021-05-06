@@ -1,6 +1,7 @@
 import javafx.application.Application;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
+import javafx.geometry.Pos;
 import javafx.scene.control.TextArea;
 import javafx.scene.text.Text;
 import javafx.scene.Scene;
@@ -63,7 +64,7 @@ public class Front extends Application {
         Button rbtn1 = new Button("Output");
         Button exit = new Button("Exit");
         TextArea ta1 = new TextArea();
-        Text t1 = new Text("OUTPUT PREVIEW (also available in op.txt)");
+        Text t1 = new Text("                                                OUTPUT PREVIEW (also available in op.txt)");
 
         rbtn.setStyle(
                 "-fx-background-radius: 5em; " +
@@ -80,6 +81,7 @@ public class Front extends Application {
                         "-fx-max-height: 90px;"
         );
         exit.setTextFill(Color.RED);
+        ta1.setEditable(false);
 
         Server s = new Server();
         Client c = new Client();

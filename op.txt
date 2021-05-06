@@ -1,159 +1,38 @@
-Mouse Moved to: 1256, 640
-Mouse Moved to: 1256, 640
-Mouse Moved to: 1252, 639
-Mouse Moved to: 1245, 638
-Mouse Moved to: 1235, 637
-Mouse Moved to: 1226, 634
-Mouse Moved to: 1217, 630
-Mouse Moved to: 1209, 626
-Mouse Moved to: 1200, 623
-Mouse Moved to: 1192, 618
-Mouse Moved to: 1185, 613
-Mouse Moved to: 1177, 606
-Mouse Moved to: 1169, 600
-Mouse Moved to: 1160, 593
-Mouse Moved to: 1148, 584
-Mouse Moved to: 1137, 575
-Mouse Moved to: 1126, 569
-Mouse Moved to: 1117, 562
-Mouse Moved to: 1109, 557
-Mouse Moved to: 1105, 555
-Mouse Moved to: 1102, 554
-Mouse Moved to: 1102, 554
-Mouse Moved to: 1101, 554
-Mouse Moved to: 1100, 555
-Mouse Moved to: 1098, 561
-Mouse Moved to: 1094, 568
-Mouse Moved to: 1089, 580
-Mouse Moved to: 1082, 591
-Mouse Moved to: 1076, 602
-Mouse Moved to: 1068, 611
-Mouse Moved to: 1061, 619
-Mouse Moved to: 1055, 623
-Mouse Moved to: 1051, 627
-Mouse Moved to: 1049, 628
-Mouse Moved to: 1047, 628
-Mouse Moved to: 1047, 628
-Mouse Moved to: 1046, 628
-Mouse Moved to: 1044, 627
-Mouse Moved to: 1041, 623
-Mouse Moved to: 1038, 616
-Mouse Moved to: 1035, 605
-Mouse Moved to: 1034, 595
-Mouse Moved to: 1033, 583
-Mouse Moved to: 1033, 573
-Mouse Moved to: 1035, 563
-Mouse Moved to: 1039, 554
-Mouse Moved to: 1046, 545
-Mouse Moved to: 1054, 537
-Mouse Moved to: 1064, 530
-Mouse Moved to: 1075, 525
-Mouse Moved to: 1087, 521
-Mouse Moved to: 1100, 519
-Mouse Moved to: 1114, 519
-Mouse Moved to: 1126, 521
-Mouse Moved to: 1136, 526
-Mouse Moved to: 1144, 533
-Mouse Moved to: 1149, 539
-Mouse Moved to: 1154, 548
-Mouse Moved to: 1161, 559
-Mouse Moved to: 1166, 569
-Mouse Moved to: 1171, 580
-Mouse Moved to: 1176, 589
-Mouse Moved to: 1183, 597
-Mouse Moved to: 1189, 604
-Mouse Moved to: 1195, 610
-Mouse Moved to: 1200, 614
-Mouse Moved to: 1204, 616
-Mouse Moved to: 1208, 617
-Mouse Moved to: 1213, 618
-Mouse Moved to: 1218, 618
-Mouse Moved to: 1224, 616
-Mouse Moved to: 1231, 613
-Mouse Moved to: 1239, 609
-Mouse Moved to: 1246, 601
-Mouse Moved to: 1254, 592
-Mouse Moved to: 1261, 583
-Mouse Moved to: 1266, 572
-Mouse Moved to: 1270, 562
-Mouse Moved to: 1273, 550
-Mouse Moved to: 1274, 538
-Mouse Moved to: 1274, 528
-Mouse Moved to: 1274, 519
-Mouse Moved to: 1273, 514
-Mouse Moved to: 1271, 511
-Mouse Moved to: 1268, 509
-Mouse Moved to: 1265, 508
-Mouse Moved to: 1260, 508
-Mouse Moved to: 1255, 511
-Mouse Moved to: 1249, 515
-Mouse Moved to: 1242, 523
-Mouse Moved to: 1234, 532
-Mouse Moved to: 1228, 543
-Mouse Moved to: 1219, 555
-Mouse Moved to: 1211, 568
-Mouse Moved to: 1204, 579
-Mouse Moved to: 1199, 588
-Mouse Moved to: 1195, 595
-Mouse Moved to: 1192, 601
-Mouse Moved to: 1190, 605
-Mouse Moved to: 1188, 607
-Mouse Moved to: 1187, 607
-Mouse Moved to: 1187, 608
-Mouse Moved to: 1185, 608
-Mouse Moved to: 1183, 608
-Mouse Moved to: 1182, 607
-Mouse Moved to: 1178, 603
-Mouse Moved to: 1168, 595
-Mouse Moved to: 1160, 588
-Mouse Moved to: 1153, 580
-Mouse Moved to: 1145, 572
-Mouse Moved to: 1140, 566
-Mouse Moved to: 1137, 562
-Mouse Moved to: 1134, 559
-Mouse Moved to: 1132, 557
-Mouse Moved to: 1131, 554
-Mouse Moved to: 1130, 553
-Mouse Moved to: 1130, 551
-Mouse Moved to: 1129, 550
-Mouse Moved to: 1129, 550
-Mouse Moved to: 1129, 549
 Key Pressed: Space
 Key Released: Ctrl
 Key Released: Ctrl
 Key Released: Space
-Mouse Moved to: 1128, 548
-Mouse Moved to: 1127, 548
-Mouse Moved to: 1127, 548
-Mouse Moved to: 1126, 548
-Mouse Moved to: 1125, 548
-Mouse Moved to: 1125, 548
-Mouse Moved to: 1124, 548
-Mouse Moved to: 1123, 548
-Mouse Moved to: 1122, 548
-Mouse Wheel Moved: 1
-Scroll Amount: 3
-Wheel Direction: 3
-Mouse Wheel Moved: 1
-Scroll Amount: 3
-Wheel Direction: 3
-Mouse Wheel Moved: 1
-Scroll Amount: 3
-Wheel Direction: 3
-Mouse Wheel Moved: -1
-Scroll Amount: 3
-Wheel Direction: 3
-Mouse Wheel Moved: -1
-Scroll Amount: 3
-Wheel Direction: 3
-Mouse Wheel Moved: -1
-Scroll Amount: 3
-Wheel Direction: 3
-Mouse Wheel Moved: -1
-Scroll Amount: 3
-Wheel Direction: 3
-Mouse Wheel Moved: -1
-Scroll Amount: 3
-Wheel Direction: 3
-Mouse Wheel Moved: -1
-Scroll Amount: 3
+Mouse Moved to: 1241, 471
+Mouse Moved to: 1240, 471
+Mouse Moved to: 1239, 471
+Mouse Moved to: 1239, 471
+Mouse Moved to: 1238, 471
+Mouse Moved to: 1238, 471
+Mouse Moved to: 1238, 472
+Mouse Moved to: 1238, 472
+Mouse Moved to: 1238, 473
+Mouse Moved to: 1238, 475
+Mouse Moved to: 1238, 475
+Mouse Moved to: 1238, 476
+Mouse Moved to: 1238, 479
+Mouse Moved to: 1238, 481
+Mouse Moved to: 1238, 485
+Mouse Moved to: 1237, 489
+Mouse Moved to: 1237, 492
+Mouse Moved to: 1237, 496
+Mouse Moved to: 1237, 500
+Mouse Moved to: 1237, 504
+Mouse Moved to: 1237, 509
+Mouse Moved to: 1240, 518
+Mouse Moved to: 1243, 527
+Mouse Moved to: 1246, 535
+Mouse Moved to: 1250, 544
+Mouse Moved to: 1254, 553
+Mouse Moved to: 1259, 562
+Mouse Moved to: 1264, 571
+Mouse Moved to: 1268, 580
+Mouse Moved to: 1271, 588
+Mouse Moved to: 1275, 595
+Mouse Moved to: 1279, 601
+Mouse Moved to: 1282, 607
+Mouse Moved to: 1284, 612
