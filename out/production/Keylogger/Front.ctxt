@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Front
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ \ \ \ //\ START\r\n\ \ \ \ //\ Starting\ from\ Server.class\r\n\r\n\ \ \ \ public\ static\ final\ CountDownLatch\ latch\ \=\ new\ CountDownLatch(1);\r\n\ \ \ \ public\ static\ Front\ starts\ \=\ null;\r\n\r\n\ \ \ \ public\ static\ Front\ waitforfront()\ {\r\n\ \ \ \ \ \ \ \ try\ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ latch.await();\r\n\ \ \ \ \ \ \ \ }\ catch\ (InterruptedException\ e)\ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ e.printStackTrace();\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ return\ starts;\r\n\ \ \ \ }\r\n\r\n\ \ \ \ public\ static\ void\ setStart(Front\ startUp)\ {\r\n\ \ \ \ \ \ \ \ starts\ \=\ startUp;\r\n\ \ \ \ \ \ \ \ latch.countDown();\r\n\ \ \ \ }\r\n\r\n\ \ \ \ public\ Front()\ {\r\n\ \ \ \ \ \ \ \ setStart(this);\r\n\ \ \ \ }\r\n\r\n\ \ \ \ public\ void\ notif()\ {\r\n\ \ \ \ \ \ \ \ System.out.println("You\ called\ a\ method\ on\ the\ application");\r\n\ \ \ \ }\r\n\r\n\ \ \ \ //\ END\r\n
+comment2.params=primaryStage
+comment2.target=void\ start(javafx.stage.Stage)
+comment3.params=arg0
+comment3.target=void\ handle(javafx.event.ActionEvent)
+comment4.params=arg0
+comment4.target=void\ handle(javafx.event.ActionEvent)
+comment5.params=arg0
+comment5.target=void\ handle(javafx.event.ActionEvent)
+numComments=6
