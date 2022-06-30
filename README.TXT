@@ -5,8 +5,10 @@ all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
 PROJECT TITLE: KeyLogger
-PURPOSE OF PROJECT:
-VERSION or DATE: 28/04/2020 v0.0
+PURPOSE OF PROJECT: Course Work
 HOW TO START THIS PROJECT:
 AUTHORS: Sushant Sinha
 USER INSTRUCTIONS:
+
+
+Please refer the project documentation [here](https://github.com/sushant-sinha/Keylogger/blob/main/Keylogger%20Report.pdf)
